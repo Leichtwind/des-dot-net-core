@@ -1,0 +1,9 @@
+# IDE
+.idea
+.vscode
+.vs
+
+# Build
+bin/
+obj/
+/packages/
